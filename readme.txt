@@ -1,1 +1,1 @@
-Бот для рыбной ловли World of Warcraft.
+Р‘РѕС‚ РґР»СЏ СЂС‹Р±РЅРѕР№ Р»РѕРІР»Рё World of Warcraft.
